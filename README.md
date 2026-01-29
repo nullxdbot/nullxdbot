@@ -1,30 +1,31 @@
 <div align="center">
 
 <!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=NullXD&fontSize=50&fontColor=fff&animation=fadeIn"/>
 
-<!-- Title with Icon -->
-# 👋 Hey, I'm Farrel Aulia Irfealdo
-
-### 🚀 Bot Developer | 💻 Programmer
+<!-- Animated Title -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Farrel+Aulia+Irfealdo+%F0%9F%91%8B;Bot+Developer+%7C+Programmer+%F0%9F%9A%80;Building+Amazing+Bots+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Picture -->
-<img src="https://telegra.ph/file/c6f6d447f2c76e3795a10.jpg" width="150px" style="border-radius: 50%;"/>
+<!-- Profile Picture with Glow Effect -->
+<img src="https://telegra.ph/file/c6f6d447f2c76e3795a10.jpg" width="180px" style="border-radius: 50%; border: 3px solid #00D9FF; box-shadow: 0 0 25px #00D9FF;"/>
 
 <br/><br/>
 
-<!-- Badges -->
-<img src="https://img.shields.io/badge/Indonesia-red?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pekanbaru-blue?style=flat-square"/>
-<img src="https://komarev.com/ghpvc/?username=nullxdbot&color=00D9FF&style=flat-square"/>
+<!-- Fancy Badges with Icons -->
+<img src="https://img.shields.io/badge/🇮🇩_Indonesia-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍_Pekanbaru-blue?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=nullxdbot&color=00D9FF&style=for-the-badge&label=👀+Views"/>
 
 </div>
 
 <br/>
 
----
+<!-- Cool Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
 
 ### 💼 About Me
 
@@ -38,7 +39,12 @@ const nullxd = {
 };
 ```
 
----
+<br/>
+
+<!-- Cool Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
 
 ### 🛠️ Tech Stack
 
@@ -46,7 +52,12 @@ const nullxd = {
 <img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,git,github,vscode,linux&theme=dark" />
 </p>
 
----
+<br/>
+
+<!-- Cool Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
 
 ### 📱 Connect With Me
 
@@ -68,7 +79,12 @@ const nullxd = {
 </a>
 </p>
 
----
+<br/>
+
+<!-- Cool Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
 
 ### 💰 Support Me
 
@@ -81,12 +97,27 @@ const nullxd = {
 </a>
 </p>
 
----
+<br/>
+
+<!-- Cool Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
 
 <div align="center">
 
+<!-- Animated Thank You -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting+my+profile!+%E2%AD%90;Feel+free+to+explore+my+repositories!+%F0%9F%9A%80;Let's+connect+and+collaborate!+%F0%9F%A4%9D" alt="Thank You"/>
+
+<br/><br/>
+
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+<img src="https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/From-Indonesia-red?style=for-the-badge"/>
+
+<br/>
 
 **© 2024 NullXD | Farrel Aulia Irfealdo**
 
