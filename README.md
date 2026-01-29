@@ -43,7 +43,7 @@ const nullxd = {
 ### 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
@@ -51,19 +51,19 @@ const nullxd = {
 ### 📱 Connect With Me
 
 <p align="center">
-<a href="https://wa.me/6282298463886">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://whatsapp.com/channel/0029VawFbp2CHDyfgcHIo51h">
+  <img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-<a href="https://youtube.com/@FXDMODZ-X7">
+<a href="https://youtube.com/@nullxd-md">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-<a href="https://instagram.com/farrelauliairfealdo_">
+<a href="https://www.instagram.com/farrelauliairfealdo_">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://tiktok.com/@nullxd">
+<a href="https://www.tiktok.com/@farrel.aulia.irfealdo">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
-<a href="https://t.me/nullxd">
+<a href="https://t.me/farrelauliairfealdo">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 </p>
@@ -84,12 +84,6 @@ const nullxd = {
 ---
 
 <div align="center">
-
-### ⭐ Thanks for visiting!
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1000&color=00D9FF&center=true&width=400&lines=Feel+free+to+explore+my+repos!;Don't+forget+to+star+⭐;Let's+connect!+🚀" />
-
-<br/>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
