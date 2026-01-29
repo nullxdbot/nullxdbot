@@ -139,16 +139,20 @@ const nullxd = {
 <div align="center">
 
 <!-- Pinned Repositories -->
-<a href="https://github.com/nullxdbot/FDBOTZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nullxdbot&repo=FDBOTZ&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<a href="https://github.com/nullxdbot/nullxdbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nullxdbot&repo=nullxdbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/nullxdbot/domino">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nullxdbot&repo=domino&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 <a href="https://github.com/nullxdbot/neoxr-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nullxdbot&repo=neoxr-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
-<a href="https://github.com/nullxdbot/domino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nullxdbot&repo=domino&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<a href="https://github.com/nullxdbot/store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nullxdbot&repo=store&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 </div>
